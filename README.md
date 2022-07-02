@@ -13,3 +13,7 @@ How to start the Bot? : 👇
 
     python follow.py
     python unfollow.py
+
+# 🚩 Changelog:
+
+02.07.2022 - Working Follow and Unfollow Twitch Bot
