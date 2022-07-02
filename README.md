@@ -1,4 +1,7 @@
 # Twitch-Token-Follow-Bot-2022
+
+> 10x Free HTTP/s Socks5 Proxys (1GB Traffic Free) 👉 [Link 🔗](https://www.webshare.io/?referral_code=7j2s6r3o0eou)
+> Automatic Captcha Solver 👉 [Link 🔗](https://bit.ly/SEO-AIO-2captcha)
  
 # Hello friends 🖐️
 
@@ -17,3 +20,7 @@ How to start the Bot? : 👇
 # 🚩 Changelog:
 
     02.07.2022 - Working Follow and Unfollow Twitch Bot
+
+# Give A Star ⭐
+
+You can also give this repository a star to show more people and they can use this repository
