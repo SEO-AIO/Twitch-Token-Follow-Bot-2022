@@ -1,4 +1,4 @@
-# Twitch-Token-Follow-Bot-2022
+# Twitch-Token-Follow-Bot-2023
 
 > 10x Free HTTP/s Socks5 Proxys (1GB Traffic Free) 👉 [Link 🔗](https://www.webshare.io/?referral_code=7j2s6r3o0eou)
 
@@ -20,7 +20,7 @@ How to start the Bot? : 👇
 
 # 🚩 Changelog:
 
-    02.07.2022 - Working Follow and Unfollow Twitch Bot
+    14.11.2023 - Working Follow and Unfollow Twitch Bot
 
 # Give A Star ⭐
 
